@@ -1,0 +1,2 @@
+# ml-project-governance-framework
+ML Project Governance Framework is a framework that can be followed by any new Data Science business or team. It will help in formulating strategies around how to use Data Science as a business, how to architect Data Science based solutions and team formation strategy, typical Data Science project lifecycle components, commonly available Deep Learning toolsets and frameworks and best practices used by Data Scientists.
